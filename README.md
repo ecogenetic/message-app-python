@@ -63,6 +63,6 @@ ACCEPTANCE_API_URL = 'http://localhost:8098/response'
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [Apache License, Version 2.0](LICENSE).
 
 For questions or issues, please contact [amy@ecosystem.ai](mailto:amy@ecosystem.ai).
